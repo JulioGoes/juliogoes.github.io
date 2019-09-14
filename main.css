@@ -1,0 +1,57 @@
+body {
+	background-color: #363636;
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+	margin: 0%;
+	padding: 0%;
+
+}
+
+.body {
+	font-family: Century Gothic;
+	font-size: 32px;
+	color: white;
+	display: block;
+	text-align: center;
+	flex: 1;
+	margin-top: 5%;
+}
+
+.footer{
+	text-align: center;
+}
+
+img{
+	padding: 10px;
+	border-radius: 10px;
+}
+
+img:hover{
+	background-color: #00FFFF;
+}
+code:hover{
+	color: #00FFFF;
+}
+
+#text_1 {
+	font-family: aria;
+	font-size: 24px;
+	color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#goes:hover{
+	color: #00FFFF;
+}
+
+#python{
+	color: #00FFFF;
+}
+#python:hover {
+	color: black;
+	background-color: white;
+}
